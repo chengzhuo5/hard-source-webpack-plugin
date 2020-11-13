@@ -12,7 +12,7 @@ Install with `npm install --save-dev hard-source-webpack-plugin` or `yarn add --
 
 ```js
 // webpack.config.js
-var HardSourceWebpackPlugin = require('hard-source-webpack-plugin');
+var HardSourceWebpackPlugin = require('@minar-kotonoha/hard-source-webpack-plugin');
 
 module.exports = {
   context: // ...
